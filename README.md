@@ -1,3 +1,3 @@
 # HI this is my own repository
-This is my first and new edit ok!
-what i do in it it will change and i can view it in the github as well.
+This is my first project which is amazon clone , I hope this Will mean alot and will contribute 
+towards my success Thank you!.
